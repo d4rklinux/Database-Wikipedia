@@ -10,6 +10,7 @@ The project includes several key files:
     dump_Wikipedia.sql: Creates the entire database.
     popolamentoDb.sql: populates the database with initial data.
     TabelleWikipedia.sql: Creates the tables described in the class diagram.
-    funzioniETrigger.sql: contains the functions and triggers necessary for the operation of the database, managing the insertion, modification and deletion of text, as well as the registration of users and authors.
+    funzioniETrigger.sql: contains the functions and triggers necessary for the operation of the database, 
+    managing the insertion, modification and deletion of text, as well as the registration of users and authors.
 
 This project represents an example of how to structure a complex database, implementing advanced features for collaborative content management.
